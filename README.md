@@ -241,4 +241,4 @@ This repository serves as the official landing page for Brawlhalla. The software
 **Get the most recent version of Brawlhalla today!**
 
 ---
-**Last updated:** 2026-09-22 05:34:35 UTC
+**Last updated:** 2026-09-22 10:30:54 UTC
